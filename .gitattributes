@@ -1,6 +1,12 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
+*.cpp linguist-language=Matlab
+*.hpp linguist-language=Matlab
+*.dll linguist-language=Matlab
+*.m   linguist-language=Matlab
+*.mexw64 linguist-language=Matlab
+
 # Custom for Visual Studio
 *.cs     diff=csharp
 
