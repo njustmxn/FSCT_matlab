@@ -17,7 +17,8 @@
 
 #### **NOTE:**
 
-Our paper is coming to be published. When it is done, I will update this files.
+Our paper:
+马晓楠, 刘晓利, 李银伢. 自适应尺度的快速相关滤波跟踪算法[J]. 计算机辅助设计与图形学学报. 2017, 29(3), 450-458.
 If you want to use these code, please cite our paper.
 
 
